@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Util/ControlPerson.java</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Recognizer/ManualSearch.java</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Capture/RegisterPerson.java</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Util/ConnectDatabase.java</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Principle/RReport.java</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Principle/ReportChoice.java</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Capture/Capture.java</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Recognizer/FaceMatchUtils.java</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Principle/FReport.java</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Principle/VisitReason.java</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Capture/haarcascade_frontalface_alt.xml</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Recognizer/Recognizer.java</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Recognizer/CantFind.java</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Principle/Login.java</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Util/ModelPerson.java</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Principle/Menu.java</file>
+            <file>file:/Users/wenboliu/Desktop/FacialRecognition/src/Principle/Dashboard.java</file>
+        </group>
+    </open-files>
+</project-private>
